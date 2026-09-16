@@ -1,0 +1,20 @@
+{
+  "blanks": [
+    {
+      "id": 0,
+      "options": ["Average", "Center", "Mass", "Velocity", "Density"]
+    },
+    {
+      "id": 1,
+      "options": ["mass", "velocity", "force", "temperature", "pressure"]
+    },
+    {
+      "id": 2,
+      "options": ["sum", "product", "average", "difference", "ratio"]
+    },
+    {
+      "id": 3,
+      "options": ["mass", "weight", "value", "speed", "distance"]
+    }
+  ]
+}
